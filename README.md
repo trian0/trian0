@@ -2,7 +2,7 @@
 
 - 🔭 Estou trabalhando no meu TCC - AMS Digital
 - 🌱 Estou aprendendo React Native
-- 💼 Atualmente estou Estagiário em Desenvolvimento Android na Horizon - Tecnologia e Inovações 
+- 💼 Atualmente estou Estagiário em Desenvolvimento Android(Java) na Horizon - Tecnologia e Inovações 
 
 <div style="display: inline_block"><br>
   <img align="center"  height="60" width="70" alt="Trian-Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">  
