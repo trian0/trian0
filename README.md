@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Thales Rian
 
-- 🔭 Estou trabalhando no meu TCC - União FC Digital
+- 🔭 Estou trabalhando no meu TCC - AMS Digital
 - 🌱 Estou aprendendo React Native
 - 💼 Atualmente estou Estagiário em Desenvolvimento Android na Horizon - Tecnologia e Inovações 
 
