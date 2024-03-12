@@ -1,7 +1,8 @@
 ### Olá! Eu sou o Thales Rian
 
 - 🌱 Finalizando curso de Analise e Denseolvimento de Sistemas
-- 💼 Atualmente estou Estagiando em Desenvolvimento Android(Kotlin) na MobApps 
+- 💼 Atualmente estou Estagiando em Desenvolvimento Android(Kotlin) na MobApps
+- Praticando alguns projetos com Jetpack Compose
 
 <div style="display: inline_block"><br>
   <img align="center"  height="60" width="70" alt="Trian-Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">  
