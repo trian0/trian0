@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thales Rian</h1>
 <h3 align="center">An Android Developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Critically](https://github.com/trian0/Critically)
+- 🔭 I’m currently working on [Trippy](https://github.com/trian0/trippy)
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
